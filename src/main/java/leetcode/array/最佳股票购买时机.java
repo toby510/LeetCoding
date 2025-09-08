@@ -1,6 +1,6 @@
 package leetcode.array;
 
-public class TestArray {
+public class 最佳股票购买时机 {
     public static void main(String[] args) {
 
         int[] prices=new int[]{12,9,8,7,6};
@@ -8,7 +8,7 @@ public class TestArray {
     }
 
     /**
-     * 股票最佳购买时机(一次遍历)
+     * 股票最佳购买时机(一次遍历)【推荐】
      *
      * @param prices
      * @return
